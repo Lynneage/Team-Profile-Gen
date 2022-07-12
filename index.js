@@ -1,7 +1,7 @@
 // node modules
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateTeam = require("./src/page-template.js");
+
 
 // lib modules
 const Engineer = require("./main/Engineer");
