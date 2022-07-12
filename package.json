@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "tpg gen",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lynneage/Team-Profile-Gen.git"
+  },
+  "author": "lynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lynneage/Team-Profile-Gen/issues"
+  },
+  "homepage": "https://github.com/Lynneage/Team-Profile-Gen#readme"
+}
